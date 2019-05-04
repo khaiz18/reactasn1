@@ -7,6 +7,9 @@ const userOutput = (props) =>
         <div>
 
 
+
+
+        <p> Username:{props.userName} </p>
         <p> some random text </p>
 
 
